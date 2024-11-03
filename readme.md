@@ -25,7 +25,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/seu-usuario/weather-app.git
+$ git clone https://github.com/XuanDeveloper/weather-app.git
 
 # Acesse a pasta do projeto
 $ cd weather-app
@@ -54,26 +54,6 @@ Após iniciar o projeto com `npx expo start`, você terá algumas opções:
 - Pressione `i` para abrir no emulador iOS (apenas macOS)
 - Escaneie o QR code com o aplicativo Expo Go no seu dispositivo físico
 
-## 📋 Estrutura do Projeto
-
-```
-weather-app/
-├── App.tsx
-├── babel.config.js
-├── package.json
-├── tsconfig.json
-├── src/
-│   ├── screens/
-│   │   ├── IntroScreen.tsx
-│   │   └── WeatherScreen.tsx
-│   ├── components/
-│   │   └── CityCard.tsx
-│   └── styles/
-│       └── theme.ts
-└── assets/
-    └── fonts/
-        └── Roboto/
-```
 
 ## 🛠️ Configurações Adicionais
 
@@ -111,7 +91,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Feito por [Seu Nome](https://github.com/seu-usuario)
+Feito por [Juan](https://github.com/XuanDeveloper)
 
 ## ✨ Agradecimentos
 
